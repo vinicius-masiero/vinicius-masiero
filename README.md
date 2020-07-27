@@ -1,4 +1,4 @@
-Hi, my name is Vinícius Masiero, I'm a web developer.  
+Hi, my name is Vinicius Masiero, I'm a web developer.  
 I have experience with HTML, CSS, JavaScript, VueJS and PHP.  
 Currently learning ReactJS.  
   
