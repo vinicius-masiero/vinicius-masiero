@@ -1,7 +1,7 @@
 # Vinicius Masiero  
 
 Hi, my name is Vinicius Masiero, I'm from Brazil and I'm 21 years old.  
-I work as a web developer since 2018. I have experience with HTML, CSS, JavaScript, VueJS and PHP.  
+I work as a web developer since 2018. I have experience with HTML, CSS, JavaScript and PHP.  
 Currently studying ReactJS and React Native.  
 I speak Portuguese, english and I'm learning korean.
   
