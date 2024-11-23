@@ -1,6 +1,6 @@
 # Vinicius Masiero  
 
-Hi, my name is Vinicius Masiero, I'm from Brazil and I'm 23 years old.  
+Hi, my name is Vinicius Masiero, I'm from Brazil and I'm 25 years old.  
 I work as a web developer since 2018. I have experience with HTML, CSS, JavaScript and PHP.
 I've worked on multiple projects using Drupal, and I have some experience on projects with React and Vue.
 My native language is portuguese but I also know english and a bit of korean. I've worked on international teams using english to communicate.
