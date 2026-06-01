@@ -1,9 +1,23 @@
-# Vinicius Masiero  
+# Hi, I'm Vinicius Masiero 👋
 
-Hi, my name is Vinicius Masiero, I'm from Brazil and I'm 25 years old.  
-I work as a web developer since 2018. I have experience with HTML, CSS, JavaScript and PHP.
-I've worked on multiple projects using Drupal, and I have some experience on projects with React and Vue.
-My native language is portuguese but I also know english and a bit of korean. I've worked on international teams using english to communicate.
-  
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-masiero/)](https://www.linkedin.com/in/vinicius-masiero/)
-[![Outlook Badge](https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vinicius.masiero@outlook.com)](mailto:vinicius.masiero@outlook.com)
+I'm a Full Stack Developer from Brazil with over 7 years of professional experience building and maintaining web applications.
+
+Since 2020, I've been working at Hogarth, delivering solutions for global brands such as Nestlé, Bayer, and Vertex. My work primarily focuses on Drupal development, including custom module development, code reviews, and collaboration with international teams.
+
+## 💻 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Vue.js, Bootstrap, SASS
+- Backend: PHP, Node.js
+- CMS: Drupal
+- Database: MySQL
+- Tools: Git, Docker, Postman
+
+## 🌎 Languages
+
+- Portuguese (Native)
+- English (Advanced)
+
+## 📫 Contact
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-masiero/)
+[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.masiero@outlook.com)
